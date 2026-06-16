@@ -1,6 +1,6 @@
 # 🗂️Job Application Tracker
 
-A full-stack job application tracker with a Kanban-style board, built with FastAPI, React, and PostgreSQL.
+A full stack job application tracker with a Kanban style board, built with FastAPI, React, and PostgreSQL.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green)
@@ -10,10 +10,22 @@ A full-stack job application tracker with a Kanban-style board, built with FastA
 ## ✨ Features
 
 - 🔐 JWT authentication (register/login)
-- 📋 Kanban board — drag and drop across 5 stages
+- 📋 Kanban board -> drag and drop across 5 stages
 - ➕ Add, edit, and delete job applications
 - 📊 Application status tracking (Wishlist → Applied → Interview → Offer → Rejected)
 - 🔒 All job data is private per user
+
+## 📸 Screenshots
+
+### Kanban Board
+![Board](screenshots/board.png)
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Add Job Modal
+![Modal](screenshots/modal.png)
+
 
 ## 🛠️ Tech Stack
 
